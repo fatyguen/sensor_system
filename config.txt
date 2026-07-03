@@ -1,0 +1,4 @@
+sampling_rate_ms=200
+moving_average_window=5
+zscore_threshold=2.5
+runtime_seconds=20
